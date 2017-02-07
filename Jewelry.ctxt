@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Jewelry()
+comment1.params=name\ disc\ m\ g\ c
+comment1.target=Jewelry(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getMetalType()
+comment3.params=
+comment3.target=java.lang.String\ getGemStone()
+comment4.params=
+comment4.target=java.lang.String\ getCountryOfOrigin()
+comment5.params=m
+comment5.target=void\ setMetalType(java.lang.String)
+comment6.params=m
+comment6.target=void\ setGemStone(java.lang.String)
+comment7.params=m
+comment7.target=void\ setCountryOfOrigin(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

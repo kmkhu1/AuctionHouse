@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Property()
+comment1.params=n\ d\ a\ s
+comment1.target=Property(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getAddress()
+comment3.params=a
+comment3.target=void\ setAddress(java.lang.String)
+comment4.params=s
+comment4.target=void\ setStyle(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getStyle()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

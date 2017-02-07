@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Collection()
+comment1.params=
+comment1.target=void\ addListeners()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=
+comment6.target=void\ displayGUI()
+comment7.params=consignments\ closedStatuses
+comment7.target=void\ save(java.util.Map,\ java.util.Map)
+comment8.params=
+comment8.target=java.util.HashMap\ loadConsignmentCollection()
+comment9.params=
+comment9.target=java.util.HashMap\ loadCollectionStatus()
+numComments=10
